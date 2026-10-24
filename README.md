@@ -1,79 +1,24 @@
-# Hi, I'm Alejandro Collantes 👋
+# Alejandro Collantes Carrasco
 
-Software Development Student | Computer Engineering Student | Based in Bremen, Germany 🇩🇪
+**Software development · Java · Python · Unity**  
+Bremen, Germany
 
-I recently completed my Higher Vocational Education in **Multiplatform Application Development (DAM)** in Spain and I am currently studying **Computer Engineering** while continuing to expand my practical skills in software development.
+I’m studying Computer Engineering at Universidad Alfonso X el Sabio (UAX) and completing a Higher Vocational Diploma in Multiplatform Application Development.
 
-I am passionate about technology, automation and building solutions that solve real problems. My goal is to start my professional career as a Software Developer, continuously learning and contributing to innovative projects.
+So far, most of my work has involved building software with a practical use: automating processes for small businesses and developing interactive training experiences. I’m now focusing more on Java, backend development, and simulation software.
 
----
+## A few things I’ve worked on
 
-## 👨‍💻 About Me
+**Naturawalk · Web tools and automation (2025–2026)**
+Worked with two partners on digital tools and workflows for three clients, using JavaScript, Google Apps Script, Google Sheets, and Stripe. It was a chance to build software around real requirements rather than just assignments.
 
-- 🇪🇸 Spanish, living and working in Germany since 2023.
-- 🎓 Higher Vocational Education in Multiplatform Application Development (DAM).
-- 🎓 Master's Degree in Artificial Intelligence & Big Data.
-- 🎓 Currently studying Computer Engineering.
-- 🌍 Languages:
-  - Spanish (Native)
-  - English (B2 Cambridge)
-  - German (B1 TELC)
+**VR training · Unity (2026)**
+Contributing to a workplace-safety training simulator as part of my software development placement. My work includes scene setup, object interactions, UI behaviour, and event-driven logic.
 
----
+## Technologies
 
-## 🚀 Experience
+* Programming: Java, Python, JavaScript, HTML, CSS
+* Tools and platforms: Unity, Git, Maven, Eclipse, VS Code, Google Apps Script
+* Currently studying: Spring Boot, concurrent programming, and backend fundamentals
 
-### Naturawalk
-
-Development and maintenance of a real business website, including:
-
-- Responsive web development
-- HTML, CSS and JavaScript
-- Google Sheets integration
-- Stripe payment integration
-- Formspree integration
-- Booking management
-- Invoice automation
-- Business process automation
-- Synchronisation between the website and internal management tools
-
-In addition, I have worked on website improvements, CSS modifications and various IT support tasks.
-
----
-
-## 💻 Current Skills
-
-### Web Development
-
-- HTML
-- CSS
-- JavaScript
-
-### Automation
-
-- Google Sheets API
-- Stripe
-- Formspree
-- Workflow automation
-
-### Currently Learning
-
-- Git & GitHub
-- SQL
-- Backend Development
-- Node.js
-- Software Engineering Best Practices
-
----
-
-## 🎯 Current Goal
-
-I am looking for opportunities to continue learning and growing as a Software Developer through challenging projects and collaborative environments.
-
----
-
-## 📫 Contact
-
-📍 Bremen, Germany
-
-Feel free to connect with me or explore my repositories.
+I also have training in AI and Big Data, and I’m interested in software engineering roles involving backend systems, automation, or simulations.
